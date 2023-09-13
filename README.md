@@ -1,3 +1,3 @@
 # platzi-bootstrapnay 
-This proyect to start a page for a dental office
+This is a proyect for a dental office page
 https://nadiaarroyo25.github.io/platzi-bootstrapnay/
